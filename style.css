@@ -11,7 +11,7 @@ body {
 
 main {
   position: relative;
-  margin: 0;
+  margin: auto;
   text-align: center;
 }
 
@@ -50,6 +50,7 @@ main {
   right: -2px;
   width: 40%;
   height: auto;
+<<<<<<< HEAD
 }
 
 footer {
@@ -63,4 +64,6 @@ footer {
   width: 5%;
   height: 5%;
   text-align: center;
+=======
+>>>>>>> 8b2af6d91e49e7effe22b7eafb4a10a7009cc44f
 }
